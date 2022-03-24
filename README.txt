@@ -1,4 +1,6 @@
-REFERENCIAS
+﻿REFERENCIAS
+
+https://code.sololearn.com/php
 
 Blog del secretario Mike
 https://secretariomike.com/analiticos/
@@ -108,7 +110,7 @@ En este campo se recopilan los datos del Libro Matriz que no son parte del cuerp
 Resolución Interna de Equivalencia.
 En el caso de certificados analíticos de estudios incompletos es relevante colocar los años que ha completado (SIN ESPECIFICAR ESPACIOS CURRICULARES QUE ADEUDA). No se coloca la Escuela de la cual proviene. Ejemplo, campo observaciones:
 • PRIMER AÑO COMPLETO. SEGUNDO AÑO INCOMPLETO.
-• PRIMER, SEGUNDO Y TERCER AÑO COMPLETOS. CUARTO AÑO INCOMPLETO, NO CURSO 5° AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
+• PRIMER, SEGUNDO Y TERCER AÑO COMPLETOS. CUARTO AÑO INCOMPLETO, NO CURSO QUINTO AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
 
 ---
 $T = 'EL DPTO. DE CURUZÚ CUATIÁ, PROVINCIA DE CORRIENTES';

@@ -1,0 +1,57 @@
+https://www.rae.es/dpd/ordinales
+
+Ordinal femenino, indicador de género femenino => (ª alt + 166 ) undécima, decimoprimera
+Ordinal masculino, indicador de género masculino => (º alt + 167 ) undécimo, decimoprimero
+Signo de grado, anillo => (° alt + 248 )
+
+Vocales con acento
+
+Minúsculas:     Mayúsculas:
+á alt + 160     Á alt + 181
+é alt + 130     É alt + 144
+í alt + 161     Í alt + 214
+ó alt + 162     Ó alt + 224
+ú alt + 163     Ú alt + 233
+
+Vocales con diéresis
+
+Minúsculas:     Mayúsculas:
+ä alt + 132     Ä alt + 142
+ë alt + 137     Ë alt + 211
+ï alt + 139     Ï alt + 216
+ö alt + 148     Ö alt + 153
+ü alt + 129     Ü alt + 154
+
+Letra ñ
+ñ alt + 164
+Ñ alt + 165
+
+arroba
+@ alt + 64
+
+comillas dobles     comillas simples        punto y coma
+“ alt + 34          ‘ alt + 39              ; alt + 59
+
+slash           backslash
+/ alt + 47      \ alt + 92
+
+signo más       signo igual     signo menor que     signo mayor que
++ alt + 43      = alt + 61      < alt + 60          > alt +62
+
+guión
+- alt + 45
+
+( alt +40
+) alt + 41
+[ alt+ 91
+] alt +93
+{ alt +123
+} alt +125
+* alt + 42
+
+Para escribir el carácter feminine ordinal indicator:
+
+En Windows
+ª alt + 166, ej., Prof.ª, para profesora.
+En Linux
+U+00AA = ctrl + shift + u, AA/aa
