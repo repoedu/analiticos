@@ -5,6 +5,8 @@ https://secretariomike.com/analiticos/
 
 Abreviaturas
 http://www.carpetas.com.ar/busquedas/abreviaturas.pdf
+https://www.rae.es/dpd/ayuda/abreviaturas
+https://dle.rae.es/contenido/abreviaturas-y-signos-empleados
 
 Gestión de normas legales
 https://bases.mendoza.edu.ar/aplicaciones/legales/gestion/
@@ -108,3 +110,8 @@ En el caso de certificados analíticos de estudios incompletos es relevante colo
 • PRIMER AÑO COMPLETO. SEGUNDO AÑO INCOMPLETO.
 • PRIMER, SEGUNDO Y TERCER AÑO COMPLETOS. CUARTO AÑO INCOMPLETO, NO CURSO 5° AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
 
+---
+$T = 'EL DPTO. DE CURUZÚ CUATIÁ, PROVINCIA DE CORRIENTES';
+$t = 'EL DEPARTAMENTO DE CURUZÚ CUATIÁ, PROV. DE CORRIENTES';
+
+var_dump( mb_strlen($t) );
