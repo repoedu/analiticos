@@ -82,3 +82,10 @@ EL DPTO. DE CURUZÚ CUATIÁ, PROVINCIA DE CORRIENTES
 REPÚBLICA DE CHILE
 REPÚBLICA DE BOLIVIA
 EL DEPARTAMENTO DE RÍO IV, PROVINCIA DE CÓRDOBA
+
+Caso: VIRLANGA
+Campo observaciones: según correcciones anteriores realizadas por supervisión, las palabras en negrita en el primer párrafo, se suprimieron en el segundo, quedando con 289 y 251 caracteres respectivamente.
+
+LENGUA EXTRANJERA: INGLÉS. Res. N° 379-DES-2021 (Equivalencia) – “LICEO GUILLERMO GRONEMEYER ZAMORANO” Valparaíso - Chile. Res. N° 2510-DGE-2020 (Prom. Acomp. 2020-2021) 1° Y 2° AÑO COMPLETOS, 3° AÑO INCOMPLETO, NO CURSO 4° Y 5° AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
+
+LENGUA EXTRANJERA: INGLÉS. Res. de equivalencia N° 379-DES-2021 “LICEO GUILLERMO GRONEMEYER” Valparaíso Chile. Res. N° 2510-DGE-2020 (Prom. Acomp. 2020-2021) 1° Y 2° AÑO COMPLETOS, 3° AÑO INCOMPLETO, NO CURSO 4° Y 5° AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
