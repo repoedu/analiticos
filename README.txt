@@ -1,14 +1,21 @@
+REFERENCIAS
+
+Blog del secretario Mike
 https://secretariomike.com/analiticos/
 
 Abreviaturas
 http://www.carpetas.com.ar/busquedas/abreviaturas.pdf
 
-BELLAS ARTES 4-024
+Gestión de normas legales
+https://bases.mendoza.edu.ar/aplicaciones/legales/gestion/
+
+BACHILLERES ESCUELA 4-024 "BELLAS ARTES"
 Bachiller en Artes Visuales con Especialidad en Producción - Escultura
 Bachiller en Artes Visuales con Especialidad en Producción - Grabado
 Bachiller en Artes Visuales con Especialidad en Producción - Pintura
 
-RES. 00596-27-2-2015
+Estructura Curricular de Escuelas Secundarias de Arte con Especialidad.
+RES. 00596/27-2-2015
 Anexos I Bachiller en Artes Visuales con especialidad en Producción- opción Pintura, Escultura, Grabado, Dibujo y Cerámica
 • Anexos II Bachiller en Artes Visuales con especialidad en Arte Público
 • Anexos III Bachiller en Música con especialidad en Realización en Vivo
@@ -19,7 +26,8 @@ Anexos I Bachiller en Artes Visuales con especialidad en Producción- opción Pi
 • Anexos VIII Bachiller en Danza con especialidad en Danza de Origen Folklórico y Popular
 • Anexos IX Bachiller en Diseño con especialidad en Comunicación Visual
 
-RES. 00653-2-3-2015
+Diseño Curricular Provincial Bachiller en Arte con Especialidad.
+RES. 00653/2-3-2015
 Bachiller en Artes Visuales con Especialidad en Producción - Pintura, Escultura, Grabado, Dibujo, Cerámica -.
 • Bachiller en Artes Visuales con Especialidad en Arte Público.
 • Bachiller en Música con Especialidad en Realización en Vivo.
@@ -30,28 +38,28 @@ Bachiller en Artes Visuales con Especialidad en Producción - Pintura, Escultura
 • Bachiller en Danza con Especialidad en Danza de Origen Folklórico y Popular.
 • Bachiller en Diseño con Especialidad en Comunicación Visual.
 
-EJEMPLO DE CARGA DE CARRERA
+EJEMPLO DE CARGA DE CARRERA EN SISFET
 
 Campos:
 
 Título o Certificado: BACHILLER EN ARTES VISUALES CON ESPECIALIDAD EN PRODUCCIÓN - OPCIÓN ESCULTURA
 Equivalencia Ley N° 26.206: EDUCACIÓN SECUNDARIA
 Norma Jurisdiccional de Aprobación: RES. N° 596-DGE-15 Y RES. N° 653-DGE-15
-Validez Nacional otorgado por: RES. N° 525-R.M.-16
+Validez Nacional otorgado por: RES. N° 525/2016
 
 Título o Certificado: BACHILLER EN ARTES VISUALES CON ESPECIALIDAD EN PRODUCCIÓN - OPCIÓN GRABADO
 Equivalencia Ley N° 26.206: EDUCACIÓN SECUNDARIA
 Norma Jurisdiccional de Aprobación: RES. N° 596-DGE-15 Y RES. N° 653-DGE-15
-Validez Nacional otorgado por: RES. N° 525-R.M.-16
+Validez Nacional otorgado por: RES. N° 525/2016
 
 Título o Certificado: BACHILLER EN ARTES VISUALES CON ESPECIALIDAD EN PRODUCCIÓN - OPCIÓN PINTURA
 Equivalencia Ley N° 26.206: EDUCACIÓN SECUNDARIA
 Norma Jurisdiccional de Aprobación: RES. N° 596-DGE-15 Y RES. N° 653-DGE-15
-Validez Nacional otorgado por: RES. N° 525-R.M.-16
+Validez Nacional otorgado por: RES. N° 525/2016
 
 LLENADO DE CAMPO LUGAR DE NACIMIENTO
 
-PROVINCIA MENDOZA
+PROVINCIA DE MENDOZA
 EL DEPARTAMENTO DE CAPITAL, PROVINCIA DE MENDOZA
 EL DEPARTAMENTO DE GODOY CRUZ, PROVINCIA DE MENDOZA
 EL DEPARTAMENTO DE GRAL. ALVEAR, PROVINCIA DE MENDOZA
@@ -81,7 +89,7 @@ CAPITAL, PROVINCIA DE SANTA FE
 EL DPTO. DE CURUZÚ CUATIÁ, PROVINCIA DE CORRIENTES
 REPÚBLICA DE CHILE
 REPÚBLICA DE BOLIVIA
-EL DEPARTAMENTO DE RÍO IV, PROVINCIA DE CÓRDOBA
+EL DEPARTAMENTO DE RÍO CUARTO, PROVINCIA DE CÓRDOBA
 
 Caso: VIRLANGA
 Campo observaciones: según correcciones anteriores realizadas por supervisión, las palabras en negrita en el primer párrafo, se suprimieron en el segundo, quedando con 289 y 251 caracteres respectivamente.
