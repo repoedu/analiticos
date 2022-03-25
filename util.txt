@@ -4,6 +4,8 @@ Ordinal femenino, indicador de género femenino => (ª alt + 166 ) undécima, de
 Ordinal masculino, indicador de género masculino => (º alt + 167 ) undécimo, decimoprimero
 Signo de grado, anillo => (° alt + 248 )
 
+CÓDIGO ASCII
+
 Vocales con acento
 
 Minúsculas:     Mayúsculas:
@@ -29,17 +31,32 @@ Letra ñ
 arroba
 @ alt + 64
 
-comillas dobles     comillas simples        punto y coma
-“ alt + 34          ‘ alt + 39              ; alt + 59
+comillas dobles     comillas simples
+“ alt + 34          ‘ alt + 39
+
+punto y coma    dos puntos
+; alt + 59      : alt + 58
+
+signo interrogación apertura
+¿ alt + 168
+
+signo interrogación cierre
+? alt + 63
+
+signo exclamación apertura
+¡ alt + 173
+
+signo de admiración
+! alt + 33
+
+signo más  | guión      | signo asterisco
++ alt + 43 | - alt + 45 | * alt + 42
 
 slash           backslash
 / alt + 47      \ alt + 92
 
-signo más       signo igual     signo menor que     signo mayor que
-+ alt + 43      = alt + 61      < alt + 60          > alt +62
-
-guión
-- alt + 45
+signo igual | signo menor que | signo mayor que
+= alt + 61  | < alt + 60      | > alt +62
 
 ( alt +40
 ) alt + 41
@@ -47,7 +64,7 @@ guión
 ] alt +93
 { alt +123
 } alt +125
-* alt + 42
+. alt + 46
 
 Para escribir el carácter feminine ordinal indicator:
 
