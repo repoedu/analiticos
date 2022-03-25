@@ -24,9 +24,8 @@ Minúsculas:     Mayúsculas:
 ö alt + 148     Ö alt + 153
 ü alt + 129     Ü alt + 154
 
-Letra ñ
-ñ alt + 164
-Ñ alt + 165
+letra ñ minúscula | letra Ñ mayúscula
+ñ alt + 164       | Ñ alt + 165
 
 arroba
 @ alt + 64
@@ -34,8 +33,8 @@ arroba
 comillas dobles     comillas simples
 “ alt + 34          ‘ alt + 39
 
-punto y coma    dos puntos
-; alt + 59      : alt + 58
+punto y coma | dos puntos | punto
+; alt + 59   | : alt + 58 | . alt + 46
 
 signo interrogación apertura
 ¿ alt + 168
@@ -52,23 +51,25 @@ signo de admiración
 signo más  | guión      | signo asterisco
 + alt + 43 | - alt + 45 | * alt + 42
 
-slash           backslash
-/ alt + 47      \ alt + 92
+slash       | backslash
+/ alt + 47  | \ alt + 92
 
 signo igual | signo menor que | signo mayor que
 = alt + 61  | < alt + 60      | > alt +62
 
-( alt +40
-) alt + 41
-[ alt+ 91
-] alt +93
-{ alt +123
-} alt +125
-. alt + 46
+paréntesis apertura | paréntesis cierre
+( alt + 40          | ) alt + 41
+
+corchete apertura | corchete cierre
+[ alt + 91        | ] alt + 93
+
+llave apertura | llave cierre
+{ alt + 123    | } alt + 125
 
 Para escribir el carácter feminine ordinal indicator:
 
 En Windows
 ª alt + 166, ej., Prof.ª, para profesora.
+
 En Linux
 U+00AA = ctrl + shift + u, AA/aa
