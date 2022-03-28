@@ -1,4 +1,4 @@
-﻿REFERENCIAS
+REFERENCIAS
 
 https://code.sololearn.com/php
 
@@ -29,6 +29,79 @@ Anexos I Bachiller en Artes Visuales con especialidad en Producción- opción Pi
 • Anexos VII Bachiller en Danza con especialidad en Danza de Origen Escénico
 • Anexos VIII Bachiller en Danza con especialidad en Danza de Origen Folklórico y Popular
 • Anexos IX Bachiller en Diseño con especialidad en Comunicación Visual
+
+# Bachiller en Artes Visuales con Especialidad en Producción - Opción Escultura
+# Primero
+Lengua	6
+Matemática	6
+Lengua Extranjera	3
+Ciencias Sociales: Geografía	6
+Ciencias Sociales: Historia - Formación Ética y Ciudadana	6
+Ciencias Naturales  4
+Educación Física    3
+Educación Artística (artes visuales, *música* o teatro)   2
+Educación Artística (artes visuales, música o *teatro*)   2
+Lenguaje de las Artes Visuales  4
+Producción de las Artes Visuales    4
+
+# Segundo
+Lengua	7
+Matemática	7
+Lengua Extranjera	3
+Ciencias Sociales: Historia - Formación Ética y Ciudadana	6
+Ciencias Naturales  5
+Educación Física    3
+Educación Tecnológica 3
+Comunicación Social 2
+Educación Artística (*artes visuales*, música o teatro)   2
+Lenguaje de las Artes Visuales  4
+Producción de las Artes Visuales    4
+
+# Tercero
+Lengua y Literatura 4
+Matemática  4
+Lengua Extranjera   3
+Geografía   3
+Historia    3
+Física  4
+Biología    3
+Educación Física    3
+Prácticas Artísticas    3
+Artes Visuales y Contexto Local 4
+Manifestaciones Visuales y Cultura Popular 4
+Prácticas de Producción Bidimensional   6
+Prácticas de Producción Tridimensional  6
+
+# Cuarto
+Lengua y Literatura 4
+Matemática  4
+Lengua Extranjera   3
+Química   4
+Educación Física    3
+Tecnologías de la Información y la Comunicación 3
+Comunicación    3
+Producción Artística Interdisciplinar   pp 3/3
+Artes Visuales y Contexto Nacional 4
+Artes Visuales e Imagen Digital 4
+Prácticas Profesionalizantes en Artes Visuales  4
+Prácticas de Producción de la Especialidad: Escultura   8
+Prácticas de Producción Complementaria en Artes Visuales    3
+
+# Quinto
+Lengua y Literatura 3
+Matemática  4
+Lengua Extranjera   3
+Economía Social 3
+Formación para la Vida y el Trabajo 3
+Formación Ética Y Ciudadana 3
+Educación Física    3
+Arte y Cultura Latinoamericana  4
+Lenguaje Artístico Complementario   4
+Artes Visuales y Producción Multimedial 5
+Prácticas Profesionalizantes en Artes Visuales  4
+Prácticas de Producción de la Especialidad: Escultura   8
+Circulación y Exhibición de las Artes Visuales    3
+
 
 Diseño Curricular Provincial Bachiller en Arte con Especialidad.
 RES. 00653/2-3-2015
@@ -182,7 +255,7 @@ En el caso de certificados analíticos de estudios incompletos es relevante colo
 • PRIMER AÑO COMPLETO. SEGUNDO AÑO INCOMPLETO.
 • PRIMER, SEGUNDO Y TERCER AÑO COMPLETOS. CUARTO AÑO INCOMPLETO, NO CURSO QUINTO AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
 
----
+----
 $t = 'EL DEPARTAMENTO DE CURUZÚ CUATIÁ, PROV. DE CORRIENTES';
 
 var_dump( mb_strlen($t) );
