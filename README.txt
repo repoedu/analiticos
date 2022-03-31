@@ -1,4 +1,4 @@
-REFERENCIAS
+-REFERENCIAS
 
 https://code.sololearn.com/php
 
@@ -19,7 +19,7 @@ Bachiller en Artes Visuales con Especialidad en Producción - Grabado
 Bachiller en Artes Visuales con Especialidad en Producción - Pintura
 
 Estructura Curricular de Escuelas Secundarias de Arte con Especialidad.
-RES. 00596/27-2-2015
+RES. 0596/27-2-2015
 Anexos I Bachiller en Artes Visuales con especialidad en Producción- opción Pintura, Escultura, Grabado, Dibujo y Cerámica
 • Anexos II Bachiller en Artes Visuales con especialidad en Arte Público
 • Anexos III Bachiller en Música con especialidad en Realización en Vivo
@@ -32,79 +32,78 @@ Anexos I Bachiller en Artes Visuales con especialidad en Producción- opción Pi
 
 # Bachiller en Artes Visuales con Especialidad en Producción - Opción Escultura
 # Primero
-Lengua	6
-Matemática	6
-Lengua Extranjera	3
-Ciencias Sociales: Geografía	6
-Ciencias Sociales: Historia - Formación Ética y Ciudadana	6
-Ciencias Naturales  4
-Educación Física    3
-Educación Artística (artes visuales, *música* o teatro)   2
-Educación Artística (artes visuales, música o *teatro*)   2
-Lenguaje de las Artes Visuales  4
-Producción de las Artes Visuales    4
+Lengua, 6
+Matemática, 6
+Lengua Extranjera, 3
+Ciencias Sociales: Geografía, 6
+Ciencias Sociales: Historia - Formación Ética y Ciudadana, 6
+Ciencias Naturales, 4
+Educación Física, 3
+Educación Artística (artes visuales, *música* o teatro), 2
+Educación Artística (artes visuales, música o *teatro*), 2
+Lenguaje de las Artes Visuales, 4
+Producción de las Artes Visuales, 4
 
 # Segundo
-Lengua	7
-Matemática	7
-Lengua Extranjera	3
-Ciencias Sociales: Historia - Formación Ética y Ciudadana	6
-Ciencias Naturales  5
-Educación Física    3
-Educación Tecnológica 3
-Comunicación Social 2
-Educación Artística (*artes visuales*, música o teatro)   2
-Lenguaje de las Artes Visuales  4
-Producción de las Artes Visuales    4
+Lengua, 7
+Matemática, 7
+Lengua Extranjera, 3
+Ciencias Sociales: Historia - Formación Ética y Ciudadana, 6
+Ciencias Naturales, 5
+Educación Física, 3
+Educación Tecnológica, 3
+Comunicación Social, 2
+Educación Artística (*artes visuales*, música o teatro), 2
+Lenguaje de las Artes Visuales, 4
+Producción de las Artes Visuales, 4
 
 # Tercero
-Lengua y Literatura 4
-Matemática  4
-Lengua Extranjera   3
-Geografía   3
-Historia    3
-Física  4
-Biología    3
-Educación Física    3
-Prácticas Artísticas    3
-Artes Visuales y Contexto Local 4
-Manifestaciones Visuales y Cultura Popular 4
-Prácticas de Producción Bidimensional   6
-Prácticas de Producción Tridimensional  6
+Lengua y Literatura, 4
+Matemática, 4
+Lengua Extranjera, 3
+Geografía, 3
+Historia, 3
+Física, 4
+Biología, 3
+Educación Física, 3
+Prácticas Artísticas, 3
+Artes Visuales y Contexto Local, 4
+Manifestaciones Visuales y Cultura Popular, 4
+Prácticas de Producción Bidimensional, 6
+Prácticas de Producción Tridimensional, 6
 
 # Cuarto
-Lengua y Literatura 4
-Matemática  4
-Lengua Extranjera   3
-Química   4
-Educación Física    3
-Tecnologías de la Información y la Comunicación 3
-Comunicación    3
-Producción Artística Interdisciplinar   pp 3/3
-Artes Visuales y Contexto Nacional 4
-Artes Visuales e Imagen Digital 4
-Prácticas Profesionalizantes en Artes Visuales  4
-Prácticas de Producción de la Especialidad: Escultura   8
-Prácticas de Producción Complementaria en Artes Visuales    3
+Lengua y Literatura, 4
+Matemática, 4
+Lengua Extranjera, 3
+Química, 4
+Educación Física, 3
+Tecnologías de la Información y la Comunicación, 3
+Comunicación, 3
+Producción Artística Interdisciplinar, pp 3/3
+Artes Visuales y Contexto Nacional, 4
+Artes Visuales e Imagen Digital, 4
+Prácticas Profesionalizantes en Artes Visuales, 4
+Prácticas de Producción de la Especialidad: Escultura, 8
+Prácticas de Producción Complementaria en Artes Visuales, 3
 
 # Quinto
-Lengua y Literatura 3
-Matemática  4
-Lengua Extranjera   3
-Economía Social 3
-Formación para la Vida y el Trabajo 3
-Formación Ética Y Ciudadana 3
-Educación Física    3
-Arte y Cultura Latinoamericana  4
-Lenguaje Artístico Complementario   4
-Artes Visuales y Producción Multimedial 5
-Prácticas Profesionalizantes en Artes Visuales  4
-Prácticas de Producción de la Especialidad: Escultura   8
-Circulación y Exhibición de las Artes Visuales    3
-
+Lengua y Literatura, 3
+Matemática, 4
+Lengua Extranjera, 3
+Economía Social, 3
+Formación para la Vida y el Trabajo, 3
+Formación Ética Y Ciudadana, 3
+Educación Física, 3
+Arte y Cultura Latinoamericana, 4
+Lenguaje Artístico Complementario, 4
+Artes Visuales y Producción Multimedial, 5
+Prácticas Profesionalizantes en Artes Visuales, 4
+Prácticas de Producción de la Especialidad: Escultura, 8
+Circulación y Exhibición de las Artes Visuales, 3
 
 Diseño Curricular Provincial Bachiller en Arte con Especialidad.
-RES. 00653/2-3-2015
+RES. 0653/2-3-2015
 Bachiller en Artes Visuales con Especialidad en Producción - Pintura, Escultura, Grabado, Dibujo, Cerámica -.
 • Bachiller en Artes Visuales con Especialidad en Arte Público.
 • Bachiller en Música con Especialidad en Realización en Vivo.
@@ -158,8 +157,6 @@ EL DEPARTAMENTO DE SANTA ROSA, PROVINCIA DE MENDOZA
 EL DEPARTAMENTO DE TUNUYÁN, PROVINCIA DE MENDOZA
 EL DEPARTAMENTO DE TUPUNGATO, PROVINCIA DE MENDOZA
 
-CIUDAD DE BUENOS AIRES, PROVINCIA DE BUENOS AIRES
-CAPITAL FEDERAL, REPÚBLICA ARGENTINA
 CAPITAL, PROVINCIA DE SANTA FE
 ALTA GRACIA, PROVINCIA DE CÓRDOBA
 C.A.B.A., PROVINCIA DE BUENOS AIRES
