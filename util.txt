@@ -1,5 +1,7 @@
 https://www.rae.es/dpd/ordinales
 
+1.º (1.er), 1.ª => primero (apocopado primer), fem. primera
+
 Ordinal femenino, indicador de género femenino => (ª alt + 166 ) undécima, decimoprimera
 Ordinal masculino, indicador de género masculino => (º alt + 167 ) undécimo, decimoprimero
 Signo de grado, anillo => (° alt + 248 )

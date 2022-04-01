@@ -10,6 +10,9 @@ http://www.carpetas.com.ar/busquedas/abreviaturas.pdf
 https://www.rae.es/dpd/ayuda/abreviaturas
 https://dle.rae.es/contenido/abreviaturas-y-signos-empleados
 
+Ordinales RAE
+https://www.rae.es/dpd/ordinales
+
 Gestión de normas legales
 https://bases.mendoza.edu.ar/aplicaciones/legales/gestion/
 
