@@ -249,6 +249,13 @@ LENGUA EXTRANJERA: INGLÉS. Res. N° 379-DES-2021 (Equivalencia) – “LICEO GU
 
 LENGUA EXTRANJERA: INGLÉS. Res. de equivalencia N° 379-DES-2021 “LICEO GUILLERMO GRONEMEYER” Valparaíso Chile. Res. N° 2510-DGE-2020 (Prom. Acomp. 2020-2021) 1° Y 2° AÑO COMPLETOS, 3° AÑO INCOMPLETO, NO CURSO 4° Y 5° AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
 
+___
+Caso: Buo
+LENGUA EXTRANJERA: INGLÉS. RES. DE EQUIVALENCIA N° 381-DES-2021 COLEGIO "CONHECER ANGLO BALNEARIO" CAMBORIÚ - BRASIL.
+___
+Caso: Baluk
+RES. N° 21-DGE-01, RES. N° 332-DEBYP-07, RES. N° 2425-DGE-09
+
 # Observaciones (certificados analíticos de estudios incompletos)
 En este campo se recopilan los datos del Libro Matriz que no son parte del cuerpo del Certificado de Estudios y/o Título. Se debe completar con datos relevantes que sean parte de la Trayectoria escolar del alumno. Por ejemplo:
 Resolución Interna de Equivalencia.
