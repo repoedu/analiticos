@@ -255,6 +255,10 @@ LENGUA EXTRANJERA: INGLÉS. RES. DE EQUIVALENCIA N° 381-DES-2021 COLEGIO "CONHE
 ___
 Caso: Baluk
 RES. N° 21-DGE-01, RES. N° 332-DEBYP-07, RES. N° 2425-DGE-09
+Leyenda recortada: RES. N° 21-DGE-01, 332-DEBYP-07, 2425-DGE-09
+
+CASO: LILLO
+LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 3-MAY/2003 (EQUIVALENCIA). RES. N° 295-DEBYP-02 (RECURSANTE). RES. N° 242-SE-2018
 
 # Observaciones (certificados analíticos de estudios incompletos)
 En este campo se recopilan los datos del Libro Matriz que no son parte del cuerpo del Certificado de Estudios y/o Título. Se debe completar con datos relevantes que sean parte de la Trayectoria escolar del alumno. Por ejemplo:
