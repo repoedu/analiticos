@@ -22,7 +22,7 @@ Bachiller en Artes Visuales con Especialidad en Producción - Grabado
 Bachiller en Artes Visuales con Especialidad en Producción - Pintura
 
 Estructura Curricular de Escuelas Secundarias de Arte con Especialidad.
-RES. 0596/27-2-2015
+RES. N° 0596/27-2-2015
 Anexos I Bachiller en Artes Visuales con especialidad en Producción- opción Pintura, Escultura, Grabado, Dibujo y Cerámica
 • Anexos II Bachiller en Artes Visuales con especialidad en Arte Público
 • Anexos III Bachiller en Música con especialidad en Realización en Vivo
@@ -33,8 +33,22 @@ Anexos I Bachiller en Artes Visuales con especialidad en Producción- opción Pi
 • Anexos VIII Bachiller en Danza con especialidad en Danza de Origen Folklórico y Popular
 • Anexos IX Bachiller en Diseño con especialidad en Comunicación Visual
 
-# Bachiller en Artes Visuales con Especialidad en Producción - Opción Escultura
-# Primero
+Diseño Curricular Provincial Bachiller en Arte con Especialidad.
+RES. N° 0653/2-3-2015
+Bachiller en Artes Visuales con Especialidad en Producción - Pintura, Escultura, Grabado, Dibujo, Cerámica -.
+• Bachiller en Artes Visuales con Especialidad en Arte Público.
+• Bachiller en Música con Especialidad en Realización en Vivo.
+• Bachiller en Teatro con Especialidad en Teatro y Medios.
+• Bachiller en Teatro con Especialidad en Teatro Popular.
+• Bachiller en Artes Audiovisuales con Especialidad en Realización Audiovisual.
+• Bachiller en Danza con Especialidad en Danza de Origen Escénico.
+• Bachiller en Danza con Especialidad en Danza de Origen Folklórico y Popular.
+• Bachiller en Diseño con Especialidad en Comunicación Visual.
+
+# "Bachiller en Artes Visuales con Especialidad en Producción - Opción Escultura", Plan de estudios RES. N° 596-DGE-15 Y RES. N° 653-DGE-15
+* La parrilla es la misma para la especialidad grabado y pintura, la que cambia a partir de cuarto y quinto año en el espacio curricular prácticas de producción de la especialidad.
+
+# PRIMER AÑO
 Lengua, 6
 Matemática, 6
 Lengua Extranjera, 3
@@ -47,7 +61,7 @@ Educación Artística (artes visuales, música o *teatro*), 2
 Lenguaje de las Artes Visuales, 4
 Producción de las Artes Visuales, 4
 
-# Segundo
+# SEGUNDO AÑO
 Lengua, 7
 Matemática, 7
 Lengua Extranjera, 3
@@ -60,7 +74,7 @@ Educación Artística (*artes visuales*, música o teatro), 2
 Lenguaje de las Artes Visuales, 4
 Producción de las Artes Visuales, 4
 
-# Tercero
+# TERCER AÑO
 Lengua y Literatura, 4
 Matemática, 4
 Lengua Extranjera, 3
@@ -75,7 +89,7 @@ Manifestaciones Visuales y Cultura Popular, 4
 Prácticas de Producción Bidimensional, 6
 Prácticas de Producción Tridimensional, 6
 
-# Cuarto
+# CUARTO AÑO
 Lengua y Literatura, 4
 Matemática, 4
 Lengua Extranjera, 3
@@ -90,7 +104,7 @@ Prácticas Profesionalizantes en Artes Visuales, 4
 Prácticas de Producción de la Especialidad: Escultura, 8
 Prácticas de Producción Complementaria en Artes Visuales, 3
 
-# Quinto
+# QUINTO AÑO
 Lengua y Literatura, 3
 Matemática, 4
 Lengua Extranjera, 3
@@ -105,38 +119,30 @@ Prácticas Profesionalizantes en Artes Visuales, 4
 Prácticas de Producción de la Especialidad: Escultura, 8
 Circulación y Exhibición de las Artes Visuales, 3
 
-Diseño Curricular Provincial Bachiller en Arte con Especialidad.
-RES. 0653/2-3-2015
-Bachiller en Artes Visuales con Especialidad en Producción - Pintura, Escultura, Grabado, Dibujo, Cerámica -.
-• Bachiller en Artes Visuales con Especialidad en Arte Público.
-• Bachiller en Música con Especialidad en Realización en Vivo.
-• Bachiller en Teatro con Especialidad en Teatro y Medios.
-• Bachiller en Teatro con Especialidad en Teatro Popular.
-• Bachiller en Artes Audiovisuales con Especialidad en Realización Audiovisual.
-• Bachiller en Danza con Especialidad en Danza de Origen Escénico.
-• Bachiller en Danza con Especialidad en Danza de Origen Folklórico y Popular.
-• Bachiller en Diseño con Especialidad en Comunicación Visual.
+EJEMPLOS DE CARGA DE CARRERA EN SISFET 4.1.3
 
-EJEMPLO DE CARGA DE CARRERA EN SISFET
+Ejemplo 1
 
-Campos:
-
-Título o Certificado: BACHILLER EN ARTES VISUALES CON ESPECIALIDAD EN PRODUCCIÓN - OPCIÓN ESCULTURA
+Título o Certificado: "BACHILLER EN ARTES VISUALES CON ESPECIALIDAD EN PRODUCCIÓN - OPCIÓN ESCULTURA"
 Equivalencia Ley N° 26.206: EDUCACIÓN SECUNDARIA
 Norma Jurisdiccional de Aprobación: RES. N° 596-DGE-15 Y RES. N° 653-DGE-15
 Validez Nacional otorgado por: RES. N° 525/2016
 
-Título o Certificado: BACHILLER EN ARTES VISUALES CON ESPECIALIDAD EN PRODUCCIÓN - OPCIÓN GRABADO
+Ejemplo 2
+
+Título o Certificado: "BACHILLER EN ARTES VISUALES CON ESPECIALIDAD EN PRODUCCIÓN - OPCIÓN GRABADO"
 Equivalencia Ley N° 26.206: EDUCACIÓN SECUNDARIA
 Norma Jurisdiccional de Aprobación: RES. N° 596-DGE-15 Y RES. N° 653-DGE-15
 Validez Nacional otorgado por: RES. N° 525/2016
 
-Título o Certificado: BACHILLER EN ARTES VISUALES CON ESPECIALIDAD EN PRODUCCIÓN - OPCIÓN PINTURA
+Ejemplo 3
+
+Título o Certificado: "BACHILLER EN ARTES VISUALES CON ESPECIALIDAD EN PRODUCCIÓN - OPCIÓN PINTURA"
 Equivalencia Ley N° 26.206: EDUCACIÓN SECUNDARIA
 Norma Jurisdiccional de Aprobación: RES. N° 596-DGE-15 Y RES. N° 653-DGE-15
 Validez Nacional otorgado por: RES. N° 525/2016
 
-LLENADO DE CAMPO LUGAR DE NACIMIENTO
+LLENADO DE CAMPO LUGAR DE NACIMIENTO AL AGREGAR UN NUEVO REGISTRO
 
 # REPÚBLICA ARGENTINA
 
@@ -209,6 +215,7 @@ ROSARIO DE LA FRONTERA, PROVINCIA DE SALTA
 TRELEW, PROVINCIA DE CHUBUT
 
 # EXTRANJERO
+
 LA PROVINCIA DE TARRAGONA, ESPAÑA
 LA PROVINCIA DE TENERIFE, ESPAÑA
 MIAMI DADE, ESTADOS UNIDOS
@@ -248,16 +255,18 @@ Campo observaciones: según correcciones anteriores realizadas por supervisión,
 LENGUA EXTRANJERA: INGLÉS. Res. N° 379-DES-2021 (Equivalencia) – “LICEO GUILLERMO GRONEMEYER ZAMORANO” Valparaíso - Chile. Res. N° 2510-DGE-2020 (Prom. Acomp. 2020-2021) 1° Y 2° AÑO COMPLETOS, 3° AÑO INCOMPLETO, NO CURSO 4° Y 5° AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
 
 LENGUA EXTRANJERA: INGLÉS. Res. de equivalencia N° 379-DES-2021 “LICEO GUILLERMO GRONEMEYER” Valparaíso Chile. Res. N° 2510-DGE-2020 (Prom. Acomp. 2020-2021) 1° Y 2° AÑO COMPLETOS, 3° AÑO INCOMPLETO, NO CURSO 4° Y 5° AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
-
 ___
-Caso: Buo
+
+Caso: BUO, campo observaciones
 LENGUA EXTRANJERA: INGLÉS. RES. DE EQUIVALENCIA N° 381-DES-2021 COLEGIO "CONHECER ANGLO BALNEARIO" CAMBORIÚ - BRASIL.
 ___
-Caso: Baluk
+
+Caso: BALU, campo plan de estudios
 RES. N° 21-DGE-01, RES. N° 332-DEBYP-07, RES. N° 2425-DGE-09
 Leyenda recortada: RES. N° 21-DGE-01, 332-DEBYP-07, 2425-DGE-09
+___
 
-CASO: LILLO
+Caso: LILL, campo observaciones
 LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 3-MAY/2003 (EQUIVALENCIA). RES. N° 295-DEBYP-02 (RECURSANTE). RES. N° 242-SE-2018
 
 # Observaciones (certificados analíticos de estudios incompletos)
