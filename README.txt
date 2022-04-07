@@ -1,28 +1,22 @@
--REFERENCIAS
+- REFERENCIAS
 
-https://code.sololearn.com/php
+Gestión de normas legales DGE, Mendoza
+https://bases.mendoza.edu.ar/aplicaciones/legales/gestion/
 
 Blog del secretario Mike
 https://secretariomike.com/analiticos/
 
-Abreviaturas
+Abreviaturas RAE y jurídicas
 http://www.carpetas.com.ar/busquedas/abreviaturas.pdf
 https://www.rae.es/dpd/ayuda/abreviaturas
 https://dle.rae.es/contenido/abreviaturas-y-signos-empleados
 
 Ordinales RAE
 https://www.rae.es/dpd/ordinales
+___
 
-Gestión de normas legales
-https://bases.mendoza.edu.ar/aplicaciones/legales/gestion/
+Estructura Curricular de Escuelas Secundarias de Arte con Especialidad, RES. N° 0596/27-2-2015
 
-BACHILLERES ESCUELA 4-024 "BELLAS ARTES"
-Bachiller en Artes Visuales con Especialidad en Producción - Escultura
-Bachiller en Artes Visuales con Especialidad en Producción - Grabado
-Bachiller en Artes Visuales con Especialidad en Producción - Pintura
-
-Estructura Curricular de Escuelas Secundarias de Arte con Especialidad.
-RES. N° 0596/27-2-2015
 Anexos I Bachiller en Artes Visuales con especialidad en Producción- opción Pintura, Escultura, Grabado, Dibujo y Cerámica
 • Anexos II Bachiller en Artes Visuales con especialidad en Arte Público
 • Anexos III Bachiller en Música con especialidad en Realización en Vivo
@@ -33,8 +27,8 @@ Anexos I Bachiller en Artes Visuales con especialidad en Producción- opción Pi
 • Anexos VIII Bachiller en Danza con especialidad en Danza de Origen Folklórico y Popular
 • Anexos IX Bachiller en Diseño con especialidad en Comunicación Visual
 
-Diseño Curricular Provincial Bachiller en Arte con Especialidad.
-RES. N° 0653/2-3-2015
+Diseño Curricular Provincial Bachiller en Arte con Especialidad, RES. N° 0653/2-3-2015
+
 Bachiller en Artes Visuales con Especialidad en Producción - Pintura, Escultura, Grabado, Dibujo, Cerámica -.
 • Bachiller en Artes Visuales con Especialidad en Arte Público.
 • Bachiller en Música con Especialidad en Realización en Vivo.
@@ -44,9 +38,10 @@ Bachiller en Artes Visuales con Especialidad en Producción - Pintura, Escultura
 • Bachiller en Danza con Especialidad en Danza de Origen Escénico.
 • Bachiller en Danza con Especialidad en Danza de Origen Folklórico y Popular.
 • Bachiller en Diseño con Especialidad en Comunicación Visual.
+___
 
-# "Bachiller en Artes Visuales con Especialidad en Producción - Opción Escultura", Plan de estudios RES. N° 596-DGE-15 Y RES. N° 653-DGE-15
-* La parrilla es la misma para la especialidad grabado y pintura, la que cambia a partir de cuarto y quinto año en el espacio curricular prácticas de producción de la especialidad.
+Grilla para el, "Bachiller en Artes Visuales con Especialidad en Producción - Opción Escultura", Plan de estudios RES. N° 596-DGE-15 Y RES. N° 653-DGE-15
+Nota: La parrilla es la misma para la especialidad grabado y pintura, la que cambia a partir de cuarto y quinto año, en el espacio curricular prácticas de producción de la especialidad.
 
 # PRIMER AÑO
 Lengua, 6
@@ -276,7 +271,9 @@ En el caso de certificados analíticos de estudios incompletos es relevante colo
 • PRIMER AÑO COMPLETO. SEGUNDO AÑO INCOMPLETO.
 • PRIMER, SEGUNDO Y TERCER AÑO COMPLETOS. CUARTO AÑO INCOMPLETO, NO CURSO QUINTO AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
 
-----
+___
+https://code.sololearn.com/php
+
 $t = 'EL DEPARTAMENTO DE CURUZÚ CUATIÁ, PROV. DE CORRIENTES';
 
 var_dump( mb_strlen($t) );
