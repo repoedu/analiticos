@@ -41,7 +41,7 @@ Bachiller en Artes Visuales con Especialidad en Producción - Pintura, Escultura
 ___
 
 Grilla para el, "Bachiller en Artes Visuales con Especialidad en Producción - Opción Escultura", Plan de estudios RES. N° 596-DGE-15 Y RES. N° 653-DGE-15
-Nota: La parrilla es la misma para la especialidad grabado y pintura, la que cambia a partir de cuarto y quinto año, en el espacio curricular prácticas de producción de la especialidad.
+Nota: La parrilla es la misma para la especialidad grabado y pintura, la que cambia a partir de cuarto y quinto año en el espacio curricular prácticas de producción de la especialidad.
 
 # PRIMER AÑO
 Lengua, 6
@@ -113,6 +113,7 @@ Artes Visuales y Producción Multimedial, 5
 Prácticas Profesionalizantes en Artes Visuales, 4
 Prácticas de Producción de la Especialidad: Escultura, 8
 Circulación y Exhibición de las Artes Visuales, 3
+___
 
 EJEMPLOS DE CARGA DE CARRERA EN SISFET 4.1.3
 
@@ -136,6 +137,7 @@ Título o Certificado: "BACHILLER EN ARTES VISUALES CON ESPECIALIDAD EN PRODUCCI
 Equivalencia Ley N° 26.206: EDUCACIÓN SECUNDARIA
 Norma Jurisdiccional de Aprobación: RES. N° 596-DGE-15 Y RES. N° 653-DGE-15
 Validez Nacional otorgado por: RES. N° 525/2016
+___
 
 LLENADO DE CAMPO LUGAR DE NACIMIENTO AL AGREGAR UN NUEVO REGISTRO
 
@@ -243,6 +245,7 @@ EL ESTADO GEORGIA, E.E.U.U
 EL ESTADO DE OHIO, EEUU
 EL ESTADO OHIO, EEUU
 EL DEPARTAMENTO POTOSÍ, BOLIVIA
+___
 
 Caso: DOE, JOHN
 Campo observaciones: según correcciones anteriores realizadas por supervisión, las palabras en negrita en el primer párrafo, se suprimieron en el segundo, quedando con 289 y 251 caracteres respectivamente.
@@ -263,6 +266,7 @@ ___
 
 Caso: LILL, campo observaciones
 LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 3-MAY/2003 (EQUIVALENCIA). RES. N° 295-DEBYP-02 (RECURSANTE). RES. N° 242-SE-2018
+___
 
 # Observaciones (certificados analíticos de estudios incompletos)
 En este campo se recopilan los datos del Libro Matriz que no son parte del cuerpo del Certificado de Estudios y/o Título. Se debe completar con datos relevantes que sean parte de la Trayectoria escolar del alumno. Por ejemplo:
@@ -270,8 +274,8 @@ Resolución Interna de Equivalencia.
 En el caso de certificados analíticos de estudios incompletos es relevante colocar los años que ha completado (SIN ESPECIFICAR ESPACIOS CURRICULARES QUE ADEUDA). No se coloca la Escuela de la cual proviene. Ejemplo, campo observaciones:
 • PRIMER AÑO COMPLETO. SEGUNDO AÑO INCOMPLETO.
 • PRIMER, SEGUNDO Y TERCER AÑO COMPLETOS. CUARTO AÑO INCOMPLETO, NO CURSO QUINTO AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
-
 ___
+
 https://code.sololearn.com/php
 
 $t = 'EL DEPARTAMENTO DE CURUZÚ CUATIÁ, PROV. DE CORRIENTES';
