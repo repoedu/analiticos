@@ -255,7 +255,7 @@ LENGUA EXTRANJERA: INGLÉS. Res. N° 379-DES-2021 (Equivalencia) – “LICEO GU
 LENGUA EXTRANJERA: INGLÉS. Res. de equivalencia N° 379-DES-2021 “LICEO GUILLERMO GRONEMEYER” Valparaíso Chile. Res. N° 2510-DGE-2020 (Prom. Acomp. 2020-2021) 1° Y 2° AÑO COMPLETOS, 3° AÑO INCOMPLETO, NO CURSO 4° Y 5° AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
 ___
 
-Caso: BUO, campo observaciones
+Caso: BUO, campo observaciones, sintaxis de redacción cuando es equivalencia de DES
 LENGUA EXTRANJERA: INGLÉS. RES. DE EQUIVALENCIA N° 381-DES-2021 COLEGIO "CONHECER ANGLO BALNEARIO" CAMBORIÚ - BRASIL.
 ___
 
@@ -264,7 +264,7 @@ RES. N° 21-DGE-01, RES. N° 332-DEBYP-07, RES. N° 2425-DGE-09
 Leyenda recortada: RES. N° 21-DGE-01, 332-DEBYP-07, 2425-DGE-09
 ___
 
-Caso: LILL, campo observaciones
+Caso: LILL, campo observaciones, sintaxis de redacción cuando es equivalencia interna
 LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 3-MAY/2003 (EQUIVALENCIA). RES. N° 295-DEBYP-02 (RECURSANTE). RES. N° 242-SE-2018
 ___
 
