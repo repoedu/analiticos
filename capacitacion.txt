@@ -9,7 +9,7 @@ Enviar un plan fines o fijarse en un docente a fin, que le arme un trabajo prác
 
 En matriz, actas y resoluciones:
 
-referente informático: miercoles y jueves  a la tarde.
+referente informático: miercoles y jueves a la tarde.
 
 Desde el alumno 2021: pendiente de aprobación.
 
@@ -30,7 +30,7 @@ ley 26743
 
 res. 362, cambio de apellidos, adopción y cambio de indentidad de género, actualización de datos se aplica esta normativa
 
-si salió de la escuela es duplicado por que no sabemos donde se presento, si se detecta el error antes deque saliera de la escuela, seguirá siendo original
+si salió de la escuela es duplicado por que no sabemos donde se presento, si se detecta el error antes de que salga de la escuela, seguirá siendo original
 
 viene del libro n x y folio x, pasa al nuevo libro
 
@@ -63,18 +63,40 @@ Materiales para hacer la actividad.
 Modalidad y objetivos. Título de la actividad.
 
 Datos e información.
-explicativa 
-revisión
-repaso
-evaluación
-esquematizar
-aplicar
-ejercitar
+Explicativa 
+Revisión
+Repaso
+Evaluación
+Esquematizar
+Aplicar
+Ejercitar
+Busqueda, lectura y comparación de información acerca de TIC en diversas fuentes
+Resuelven cuestionario de preguntas
+
+
+caracteristi
+
 
 Tema
 
 Explicativa
 MOSTRAR EXPLICAR OBSERVAR, DATOS E INFORMACIÓN DEFINICIÓN CONCEPTOS, CARACTERÍSTICAS DE LA INFORMACIÓN
-ACTIVIDADES: ATIENDEN EN CLASE, TOMAN APUNTES, CONSULTAS Y EVACUAN DUDAS
-LEER COMPRENDER, RESUMIR
+ACTIVIDADES: ATIENDEN EN CLASE, TOMAN APUNTES, CONSULTAN Y EVACUAN DUDAS
+LEER, COMPRENDER, RESUMIR
 REALIZAN LECTURA COMPRENSIVA, INTERPRETAN TEXTO, CONSTRUYEN GLOSARIO, CONSULTAN Y EVACUAN DUDAS
+
+
+$precio_costo = 5200.00;
+$porcentaje_ganancia = .4;
+$precio_venta = pvp($precio_costo, $porcentaje_ganancia);
+$utilidad = $precio_venta - $precio_costo;
+
+echo "Precio costo: " . $precio_costo . "<br>";
+echo "Porcentaje ganancia: " . $porcentaje_ganancia * 100 . "%<br>";
+echo "Precio venta: " . $precio_venta . "<br>";
+echo "Utilidad: " . $utilidad . "<br>";
+
+//var_dump($precio_venta);
+
+function pvp($precio_costo, $porcentaje_ganancia) {
+    return round($precio_costo / (1 - $porcentaje_ganancia), 2);
