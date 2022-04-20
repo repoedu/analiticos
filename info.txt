@@ -1,4 +1,4 @@
-LEY DE EDUCACIÓN NACIONAL N.º 26.206/27-12-2006
+﻿LEY DE EDUCACIÓN NACIONAL N.º 26.206/27-12-2006
 
 # Estructura del sistema educativo nacional art. 17
 Comprende cuatro niveles:
@@ -32,6 +32,19 @@ ___
 - Bachillerato orientado en INFORMÁTICA.
 - Bachillerato orientado en EDUCACIÓN FÍSICA.
 - Bachillerato orientado en ARTE (Música, artes visuales, teatro, danza, etc.)
+
+1. Agro y Ambiente
+2. Artes
+3. Ciencias Naturales
+4. Ciencias Sociales y Humanidades
+5. Comunicación
+6. Economía y Administración
+7. Educación
+8. Educación Física
+9. Informática
+10. Lenguas
+11. Turismo
+
 
 MENDOZA
 
