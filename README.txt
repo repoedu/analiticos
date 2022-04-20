@@ -276,7 +276,7 @@ En el caso de certificados analíticos de estudios incompletos es relevante colo
 • PRIMER, SEGUNDO Y TERCER AÑO COMPLETOS. CUARTO AÑO INCOMPLETO, NO CURSO QUINTO AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
 
 RES. DE PROMEDIO N° 1398-DGE-01 | para excelente, muy bueno, bueno
-RES. DE PROMEDIO N° 611-ME-89 | supero, alcanzo, alcanzo muy satisfactoriamente, alcanzo
+RES. DE PROMEDIO N° 611-ME-89 | para supero, alcanzo muy satisfactoriamente, alcanzo
 O las dos anteriores si fuese el caso, RES. DE PROMEDIO N° 1398-DGE-01 y RES. N° 611-ME-89
 ___
 
