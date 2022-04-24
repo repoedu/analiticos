@@ -1,4 +1,4 @@
-plan de estudios no vigentes
+﻿plan de estudios no vigentes
 
 criterio: mejor plan de estudios que se amolde a la situacion particular 1008/01826
 ejemplo:
@@ -72,10 +72,6 @@ Aplicar
 Ejercitar
 Busqueda, lectura y comparación de información acerca de TIC en diversas fuentes
 Resuelven cuestionario de preguntas
-
-
-caracteristi
-
 
 Tema
 

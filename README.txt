@@ -1,4 +1,4 @@
-- REFERENCIAS
+﻿- REFERENCIAS
 
 Gestión de normas legales DGE, Mendoza
 https://bases.mendoza.edu.ar/aplicaciones/legales/gestion/
@@ -274,6 +274,8 @@ Resolución Interna de Equivalencia.
 En el caso de certificados analíticos de estudios incompletos es relevante colocar los años que ha completado (SIN ESPECIFICAR ESPACIOS CURRICULARES QUE ADEUDA). No se coloca la Escuela de la cual proviene. Ejemplo, campo observaciones:
 • PRIMER AÑO COMPLETO. SEGUNDO AÑO INCOMPLETO.
 • PRIMER, SEGUNDO Y TERCER AÑO COMPLETOS. CUARTO AÑO INCOMPLETO, NO CURSO QUINTO AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
+
+Leyes Nº 26.206, Nº 26.150, Nº 26.618, Nº 26.743, Nº 26.061;
 
 RES. DE PROMEDIO N° 1398-DGE-01 | para excelente, muy bueno, bueno
 RES. DE PROMEDIO N° 611-ME-89 | para supero, alcanzo muy satisfactoriamente, alcanzo
