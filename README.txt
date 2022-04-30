@@ -1,4 +1,4 @@
-﻿- REFERENCIAS
+- REFERENCIAS
 
 Gestión de normas legales DGE, Mendoza
 https://bases.mendoza.edu.ar/aplicaciones/legales/gestion/
@@ -209,7 +209,8 @@ LA CIUDAD DE USHUAIA, PROVINCIA DE TIERRA DEL FUEGO
 MAR DEL PLATA, PROVINCIA DE BUENOS AIRES
 PATIÑO, PROVINCIA DE FORMOSA
 ROSARIO DE LA FRONTERA, PROVINCIA DE SALTA
-TRELEW, PROVINCIA DE CHUBUT
+LA CIUDAD DE TRELEW, PROVINCIA DE CHUBUT
+TERMAS DE RÍO HONDO, PROVINCIA DE SANTIAGO DEL ESTERO
 
 # EXTRANJERO
 
@@ -255,17 +256,19 @@ LENGUA EXTRANJERA: INGLÉS. Res. N° 379-DES-2021 (Equivalencia) – “LICEO GU
 LENGUA EXTRANJERA: INGLÉS. Res. de equivalencia N° 379-DES-2021 “LICEO GUILLERMO GRONEMEYER” Valparaíso Chile. Res. N° 2510-DGE-2020 (Prom. Acomp. 2020-2021) 1° Y 2° AÑO COMPLETOS, 3° AÑO INCOMPLETO, NO CURSO 4° Y 5° AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
 ___
 
-Caso: BUO, campo observaciones, sintaxis de redacción cuando es equivalencia de DES
+Caso: BUO, campo observaciones, sintaxis de redacción cuando es equivalencia de DES (dirección de educación secundaria)
 LENGUA EXTRANJERA: INGLÉS. RES. DE EQUIVALENCIA N° 381-DES-2021 COLEGIO "CONHECER ANGLO BALNEARIO" CAMBORIÚ - BRASIL.
 ___
 
-Caso: BALU, campo plan de estudios
-RES. N° 21-DGE-01, RES. N° 332-DEBYP-07, RES. N° 2425-DGE-09
-Leyenda recortada: RES. N° 21-DGE-01, 332-DEBYP-07, 2425-DGE-09
+Caso: LILL, campo observaciones, sintaxis de redacción cuando es equivalencia interna
+LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 3-MAY/2003 (EQUIVALENCIA).
 ___
 
-Caso: LILL, campo observaciones, sintaxis de redacción cuando es equivalencia interna
-LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 3-MAY/2003 (EQUIVALENCIA). RES. N° 295-DEBYP-02 (RECURSANTE). RES. N° 242-SE-2018
+Caso: BALU, campo plan de estudios
+Leyenda normal:    RES. N° 21-DGE-01, RES. N° 332-DEBYP-07, RES. N° 2425-DGE-09
+Leyenda recortada: RES. N° 21-DGE-01, N° 332-DEBYP-07, N° 2425-DGE-09
+
+ejm: Leyes Nº 26.206, Nº 26.150, Nº 26.618, Nº 26.743, Nº 26.061;
 ___
 
 # Observaciones (certificados analíticos de estudios incompletos)
@@ -274,8 +277,6 @@ Resolución Interna de Equivalencia.
 En el caso de certificados analíticos de estudios incompletos es relevante colocar los años que ha completado (SIN ESPECIFICAR ESPACIOS CURRICULARES QUE ADEUDA). No se coloca la Escuela de la cual proviene. Ejemplo, campo observaciones:
 • PRIMER AÑO COMPLETO. SEGUNDO AÑO INCOMPLETO.
 • PRIMER, SEGUNDO Y TERCER AÑO COMPLETOS. CUARTO AÑO INCOMPLETO, NO CURSO QUINTO AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
-
-Leyes Nº 26.206, Nº 26.150, Nº 26.618, Nº 26.743, Nº 26.061;
 
 RES. DE PROMEDIO N° 1398-DGE-01 | para excelente, muy bueno, bueno
 RES. DE PROMEDIO N° 611-ME-89 | para supero, alcanzo muy satisfactoriamente, alcanzo
