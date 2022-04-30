@@ -1,4 +1,4 @@
-- REFERENCIAS
+- REFERENCIAS E INFORMACIÓN ÚTIL
 
 Gestión de normas legales DGE, Mendoza
 https://bases.mendoza.edu.ar/aplicaciones/legales/gestion/
