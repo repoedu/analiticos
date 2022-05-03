@@ -1,4 +1,4 @@
-- REFERENCIAS E INFORMACIÓN ÚTIL
+﻿- REFERENCIAS E INFORMACIÓN ÚTIL
 
 Gestión de normas legales DGE, Mendoza
 https://bases.mendoza.edu.ar/aplicaciones/legales/gestion/
@@ -281,6 +281,13 @@ En el caso de certificados analíticos de estudios incompletos es relevante colo
 RES. DE PROMEDIO N° 1398-DGE-01 | para excelente, muy bueno, bueno
 RES. DE PROMEDIO N° 611-ME-89 | para supero, alcanzo muy satisfactoriamente, alcanzo
 O las dos anteriores si fuese el caso, RES. DE PROMEDIO N° 1398-DGE-01 y RES. N° 611-ME-89
+___
+
+DUPLICADOS Y SUCESIVOS - SISFET
+Se emitirá el analítico siempre como ORIGINAL
+NO se colocará más el sello de duplicado
+Campo de Observaciones del analítico/título la leyenda dispuesta en la siguiente:
+Res. CFE 222/14: “El presente es un duplicado del original emitido en fecha …… sobre planilla Nº… y Serie Nº….”
 ___
 
 https://code.sololearn.com/php
