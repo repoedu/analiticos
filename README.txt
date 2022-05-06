@@ -278,16 +278,17 @@ En el caso de certificados analíticos de estudios incompletos es relevante colo
 • PRIMER AÑO COMPLETO. SEGUNDO AÑO INCOMPLETO.
 • PRIMER, SEGUNDO Y TERCER AÑO COMPLETOS. CUARTO AÑO INCOMPLETO, NO CURSO QUINTO AÑO DE LA EDUCACIÓN SECUNDARIA (Ley 26.206 Art. 134 Inc. b).
 
-RES. DE PROMEDIO N° 1398-DGE-01 | para excelente, muy bueno, bueno
-RES. DE PROMEDIO N° 611-ME-89 | para supero, alcanzo muy satisfactoriamente, alcanzo
-O las dos anteriores si fuese el caso, RES. DE PROMEDIO N° 1398-DGE-01 y RES. N° 611-ME-89
+Para excelente, muy bueno, bueno:                     RES. DE PROMEDIO N° 1398-DGE-01
+Para superó, alcanzó muy satisfactoriamente, alcanzó: RES. DE PROMEDIO N° 611-ME-89
+O las dos anteriores si fuese el caso:                RES. DE PROMEDIO N° 1398-DGE-01 Y RES. N° 611-ME-89
 ___
 
 DUPLICADOS Y SUCESIVOS - SISFET
 Se emitirá el analítico siempre como ORIGINAL
 NO se colocará más el sello de duplicado
-Campo de Observaciones del analítico/título la leyenda dispuesta en la siguiente:
+Campo Observaciones del analítico/título la leyenda dispuesta es la siguiente:
 Res. CFE 222/14: “El presente es un duplicado del original emitido en fecha …… sobre planilla Nº… y Serie Nº….”
+RES. CFE 222/14: “EL PRESENTE ES UN DUPLICADO DEL ORIGINAL EMITIDO EN FECHA … SOBRE PLANILLA Nº … Y SERIE Nº …”
 ___
 
 https://code.sololearn.com/php
