@@ -210,7 +210,7 @@ MAR DEL PLATA, PROVINCIA DE BUENOS AIRES
 PATIÑO, PROVINCIA DE FORMOSA
 ROSARIO DE LA FRONTERA, PROVINCIA DE SALTA
 LA CIUDAD DE TRELEW, PROVINCIA DE CHUBUT
-TERMAS DE RÍO HONDO, PROVINCIA DE SANTIAGO DEL ESTERO
+LA CDAD TERMAS DE RÍO HONDO, PROV DE STGO DEL ESTERO => 52, sin puntos porque no entran mas caracteres
 
 # EXTRANJERO
 
@@ -289,6 +289,11 @@ NO se colocará más el sello de duplicado
 Campo Observaciones del analítico/título la leyenda dispuesta es la siguiente:
 Res. CFE 222/14: “El presente es un duplicado del original emitido en fecha …… sobre planilla Nº… y Serie Nº….”
 RES. CFE 222/14: “EL PRESENTE ES UN DUPLICADO DEL ORIGINAL EMITIDO EN FECHA … SOBRE PLANILLA Nº … Y SERIE Nº …”
+___
+
+LA PRIMER PARTIDA DE PAPEL MONEDA SE INICIA EN EL AÑO 2010
+
+LENGUA EXTRANJERA: INGLÉS. RES. INT. N° xx-XXX/xxxx (EQUIVALENCIA). RES. DE PROMEDIO N° 1398-DGE-01. RES. CFE 222/14: “EL PRESENTE ES UN DUPLICADO DEL ORIGINAL EMITIDO EN FECHA dd/mm/yyyy SOBRE PLANILLA N° ------ Y SERIE N° ------”
 ___
 
 https://code.sololearn.com/php
