@@ -45,42 +45,11 @@ fotocopia de la resolución solo del visto y considerando y el anexo 5 de la mis
 
 PPI (proyecto pedagógico integral) evaluaciones cualitativas, estados variados, verificar constantemente para tener en cuenta si todo el trayecto, necesita el PPI
 
-
 recomendar, llenar el nombre de pila con lapiz
-
 
 Introducción a la computación
 Internet
 Sistemas operativos
-
-
-
-Presentación de la secuencia.
-Cada actividad propone formas de abordar la clase, un desarrollo, una sugerencia para resolver la propuesta y un cierre.
-
-Materiales para hacer la actividad.
-
-Modalidad y objetivos. Título de la actividad.
-
-Datos e información.
-Explicativa 
-Revisión
-Repaso
-Evaluación
-Esquematizar
-Aplicar
-Ejercitar
-Busqueda, lectura y comparación de información acerca de TIC en diversas fuentes
-Resuelven cuestionario de preguntas
-
-Tema
-
-Explicativa
-MOSTRAR EXPLICAR OBSERVAR, DATOS E INFORMACIÓN DEFINICIÓN CONCEPTOS, CARACTERÍSTICAS DE LA INFORMACIÓN
-ACTIVIDADES: ATIENDEN EN CLASE, TOMAN APUNTES, CONSULTAN Y EVACUAN DUDAS
-LEER, COMPRENDER, RESUMIR
-REALIZAN LECTURA COMPRENSIVA, INTERPRETAN TEXTO, CONSTRUYEN GLOSARIO, CONSULTAN Y EVACUAN DUDAS
-
 
 $precio_costo = 5200.00;
 $porcentaje_ganancia = .4;
