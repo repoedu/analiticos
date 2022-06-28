@@ -302,3 +302,10 @@ https://code.sololearn.com/php
 $t = 'EL DEPARTAMENTO DE CURUZÚ CUATIÁ, PROV. DE CORRIENTES';
 
 var_dump( mb_strlen($t) );
+
+Borrar un rango de páginas en Microsoft Word
+1. Presionar f5, ir a número de página ingresar el número de página inicial y cerrar.
+2. Presionar f8, para activar el modo extendido.
+3. Presionar f5, ir a número de página ingresar el número de página final y cerrar.
+4. Presionar la tecla suprimir para borrar.
+https://es.extendoffice.com/documents/word/5503-word-delete-multiple-pages.html
