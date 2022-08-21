@@ -168,6 +168,7 @@ ALTA GRACIA, PROVINCIA DE CÓRDOBA
 C.A.B.A., PROVINCIA DE BUENOS AIRES
 CALINGASTA, PROVINCIA DE SAN JUAN
 CAPITAL FEDERAL, PROVINCIA DE BUENOS AIRES
+CIUDAD AUTÓNOMA DE BUENOS AIRES
 CIUDAD DE JÁCHAL, PROVINCIA DE SAN JUAN
 EL DEPARTAMENTO DE CURUZÚ CUATIÁ, PROV. DE CORRIENTES
 EL DEPARTAMENTO DE BARILOCHE, PROVINCIA DE RÍO NEGRO
@@ -249,6 +250,36 @@ EL ESTADO OHIO, EEUU
 EL DEPARTAMENTO POTOSÍ, BOLIVIA
 ___
 
+LA PRIMER PARTIDA DE PAPEL MONEDA SE INICIA EN EL AÑO 2010
+
+CASOS LEYENDA CAMPO OBSERVACIONES:
+
+Solo lengua extranjera
+LENGUA EXTRANJERA: INGLÉS.
+
+Lengua extranjera, más resolución interna de equivalencias de la escuela. PD: la otra resolución de de equiv. puede ser de DES, con lo cual ahí cambia la sintaxis de redacción
+LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 123-DIC/2019 (EQUIVALENCIA).
+
+Lengua extranjera + resolución interna escuela + promedio según resolución RES. N° 1398-DGE-01 (excelente, bueno, muy bueno)
+LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 123-DIC/2019 (EQUIVALENCIA). PROMEDIO SEGÚN RES. N° 1398-DGE-01.
+
+Lengua extranjera + resolución interna escuela + promedio según resolución RES. N° 0611-ME-89 (superó, alcanzó muy satisfactoriamente, alcanzó o alcanzó satisfactoriamente)
+LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 123-DIC/2019 (EQUIVALENCIA). PROMEDIO SEGÚN RES. N° 0611-ME-89.
+
+Lengua extranjera + resolución interna escuela + promedio según resolución RES. N° 0611-ME-89 y RES. N° 1398-DGE-01
+LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 123-DIC/2019 (EQUIVALENCIA). PROMEDIO SEGÚN RES. N° 0611-ME-89 Y RES. N° 1398-DGE-01.
+
+Lengua extranjera + resolución interna escuela + promedio según resolución RES. N° 1398-DGE-01 y si es un duplicado
+LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 123-DIC/2019 (EQUIVALENCIA). PROMEDIO SEGÚN RES. N° 1398-DGE-01. RES. CFE 222/14: “EL PRESENTE ES UN DUPLICADO DEL ORIGINAL EMITIDO EN FECHA dd/mm/yyyy SOBRE PLANILLA N° ------ Y SERIE N° ------”
+
+Lengua extranjera + resolución interna escuela + TEM
+LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 123-DIC/2019 (EQUIVALENCIA). TEM: "TERMINALIDAD EDUCATIVA MENDOZA"
+
+Lengua extranjera + TEM
+LENGUA EXTRANJERA: INGLÉS. TEM: "TERMINALIDAD EDUCATIVA MENDOZA"
+
+___
+
 Caso: DOE, JOHN
 Campo observaciones: según correcciones anteriores realizadas por supervisión, las palabras en negrita en el primer párrafo, se suprimieron en el segundo, quedando con 289 y 251 caracteres respectivamente.
 
@@ -295,11 +326,6 @@ NO se colocará más el sello de duplicado
 Campo Observaciones del analítico/título la leyenda dispuesta es la siguiente:
 Res. CFE 222/14: “El presente es un duplicado del original emitido en fecha …… sobre planilla Nº… y Serie Nº….”
 RES. CFE 222/14: “EL PRESENTE ES UN DUPLICADO DEL ORIGINAL EMITIDO EN FECHA … SOBRE PLANILLA Nº … Y SERIE Nº …”
-___
-
-LA PRIMER PARTIDA DE PAPEL MONEDA SE INICIA EN EL AÑO 2010
-
-LENGUA EXTRANJERA: INGLÉS. RES. INT. N° 123-DIC/2019 (EQUIVALENCIA). PROMEDIO SEGÚN RES. N° 1398-DGE-01. RES. CFE 222/14: “EL PRESENTE ES UN DUPLICADO DEL ORIGINAL EMITIDO EN FECHA dd/mm/yyyy SOBRE PLANILLA N° ------ Y SERIE N° ------”
 ___
 
 https://code.sololearn.com/php
