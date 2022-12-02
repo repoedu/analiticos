@@ -341,6 +341,37 @@ Borrar un rango de páginas en Microsoft Word
 4. Presionar la tecla suprimir para borrar.
 https://es.extendoffice.com/documents/word/5503-word-delete-multiple-pages.html
 
-Array de Departamentos de Mendoza
+Array de departamentos de Mendoza
 ["Capital", "General Alvear", "Godoy Cruz", "Guaymallén", "Junín", "Lavalle", "Las Heras", "La Paz", "Luján de Cuyo", "Maipú", "Malargüe",
 "Rivadavia", "San Carlos", "San Martín", "San Rafael", "Santa Rosa", "Tunuyán", "Tupungato"]
+
+Array de provincias Argentinas
+["Buenos Aires", "Catamarca", "Chaco", "Chubut", "Ciudad Autónoma de Buenos Aires", "Córdoba", "Corrientes", "Entre Ríos", "Formosa", "Jujuy", "La Pampa", "La Rioja", "Mendoza", "Misiones", "Neuquén", "Río Negro", "Salta", "San Juan", "San Luis", "Santa Cruz", "Santa Fe", "Santiago del Estero", "Tierra del Fuego", "Tucumán"]
+
+# NO I, O, Ñ
+provinces = {
+    "A": "Salta",
+    "B": "Buenos Aires",
+    "C": "Ciudad Autónoma de Buenos Aires",
+    "D": "San Luis",
+    "E": "Entre Ríos",
+    "F": "La Rioja",
+    "G": "Santiago del Estero",
+    "H": "Chaco",
+    "J": "San Juan",
+    "K": "Catamarca",
+    "L": "La Pampa",
+    "M": "Mendoza",
+    "N": "Misiones",
+    "P": "Formosa",
+    "Q": "Neuquén",
+    "R": "Río Negro",
+    "S": "Santa Fe",
+    "T": "Tucumán",
+    "U": "Chubut",
+    "V": "Tierra del Fuego",
+    "W": "Corrientes",
+    "X": "Córdoba",
+    "Y": "Jujuy",
+    "Z": "Santa Cruz"
+}
