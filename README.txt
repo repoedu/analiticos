@@ -376,6 +376,34 @@ provinces = {
     "Z": "Santa Cruz"
 }
 
+# Lista de tuplas de provincias
+provinces = [
+    (1,'BUENOS AIRES','AR-B'),
+    (2,'CATAMARCA','AR-K'),
+    (3,'CHACO','AR-H'),
+    (4,'CHUBUT','AR-U'),
+    (5,'CIUDAD AUTONOMA DE BUENOS AIRES','AR-C'),
+    (6,'CORDOBA','AR-X'),
+    (7,'CORRIENTES','AR-W'),
+    (8,'ENTRE RIOS','AR-E'),
+    (9,'FORMOSA','AR-P'),
+    (10,'JUJUY','AR-Y'),
+    (11,'LA PAMPA','AR-L'),
+    (12,'LA RIOJA','AR-F'),
+    (13,'MENDOZA','AR-M'),
+    (14,'MISIONES','AR-N'),
+    (15,'NEUQUEN','AR-Q'),
+    (16,'RIO NEGRO','AR-R'),
+    (17,'SALTA','AR-A'),
+    (18,'SAN JUAN','AR-J'),
+    (19,'SAN LUIS','AR-D'),
+    (20,'SANTA CRUZ','AR-Z'),
+    (21,'SANTA FE','AR-S'),
+    (22,'SANTIAGO DEL ESTERO','AR-G'),
+    (23,'TIERRA DEL FUEGO','AR-V'),
+    (24,'TUCUMAN','AR-T')
+]
+
 Alphabet
 A|B|C|D|E|F|G|H|I|J|K|L|M|N|Ñ|O|P|Q|R|S|T|U|V|W|X|Y|Z
 a|b|c|d|e|f|g|h|i|j|k|l|m|n|ñ|o|p|q|r|s|t|u|v|w|x|y|z
