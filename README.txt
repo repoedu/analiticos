@@ -409,3 +409,33 @@ A|B|C|D|E|F|G|H|I|J|K|L|M|N|Ñ|O|P|Q|R|S|T|U|V|W|X|Y|Z
 a|b|c|d|e|f|g|h|i|j|k|l|m|n|ñ|o|p|q|r|s|t|u|v|w|x|y|z
 a = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "Ñ", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
 a = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "ñ", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+
+abecedario = {
+    'a': 'a',
+    'b': 'be',
+    'c': 'ce',
+    'd': 'de',
+    'e': 'e',
+    'f': 'efe',
+    'g': 'ge',
+    'h': 'hache',
+    'i': 'i o i latina',
+    'j': 'jota',
+    'k': 'ka',
+    'l': 'ele',
+    'm': 'eme',
+    'n': 'ene',
+    'ñ': 'eñe',
+    'o': 'o',
+    'p': 'pe',
+    'q': 'cu',
+    'r': 'erre',
+    's': 'ese',
+    't': 'te',
+    'u': 'u',
+    'v': 'uve',
+    'w': 'uve doble',
+    'x': 'equis',
+    'y': 'ye o i griega',
+    'z': 'zeta'
+}
